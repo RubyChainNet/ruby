@@ -9,7 +9,7 @@
  tar zxvf rubychain_latest.tar
  cd rubychain
  sudo chmod +x install.sh
- sudo ./install.sh
+ ./install.sh
 ```
 ### 启动
 
