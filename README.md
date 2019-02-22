@@ -80,7 +80,7 @@
 
 ` rubyi testruby stop `
 
-## win 节点使用指南
+## windows 节点使用指南
 
 ### 安装
 
