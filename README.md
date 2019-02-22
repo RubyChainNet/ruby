@@ -5,11 +5,11 @@
 ### 安装
 
 ``` 
- wget https://github.com/RubyChainNet/ruby/releases/download/latest/rubychain_latest.tar
+ wget https://download.rubychain.org/download/latest/rubychain_latest.tar
  tar zxvf rubychain_latest.tar
  cd rubychain
  sudo chmod +x install.sh
- ./install.sh
+ sudo ./install.sh
 ```
 ### 启动
 
@@ -46,7 +46,7 @@
 ### 安装
 
 ``` 
- wget https://github.com/RubyChainNet/ruby/releases/download/latest/rubychain_latest.tar
+ curl -o rubychain_latest.tar https://download.rubychain.org/download/latest/rubychain_latest.tar
  tar zxvf rubychain_latest.tar
  cd rubychain
  chmod +x install.sh
@@ -86,8 +86,8 @@
 
 ### 安装
 
- 下载 [rubychain_latest.zip](https://github.com/RubyChainNet/ruby/releases/download/latest/rubychain_latest.zip)
- 解压缩，并进入解压缩后的目录;右键,以管理员身份执行install.bat
+  下载 [rubychain_latest.zip](https://download.rubychain.org/download/ruby/latest/rubychain_latest.zip)
+  解压缩，并进入解压缩后的目录;右键,以管理员身份执行install.bat
 
 ### 启动
 
@@ -118,4 +118,3 @@
 #### 停止测试链节点
 
 ` rubyi.exe testruby stop `
-
