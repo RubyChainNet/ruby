@@ -5,10 +5,10 @@
 ### 安装
 
 ``` 
- sudo wget https://
- sudo tar zxvf
- cd 
- sudo ./install_linux.sh
+ sudo wget https://github.com/RubyChainNet/ruby/releases/download/latest/rubychain_latest.tar
+ sudo tar zxvf rubychain_latest.tar
+ cd rubychain
+ sudo ./install.sh
 ```
 ### 启动
 
@@ -45,9 +45,9 @@
 ### 安装
 
 ``` 
- sudo wget https://
- sudo tar zxvf
- cd 
+ sudo wget https://github.com/RubyChainNet/ruby/releases/download/latest/rubychain_latest.tar
+ sudo tar zxvf rubychain_latest.tar
+ cd rubychain
  sudo ./install_mac.sh
 ```
 ### 启动
@@ -84,7 +84,7 @@
 
 ### 安装
 
- 下载 [node.zip](https://)
+ 下载 [rubychain_latest.zip](https://github.com/RubyChainNet/ruby/releases/download/latest/rubychain_latest.zip)
  解压缩，并进入解压缩后的目录
  右键，以管理员身份执行install.bat
 
