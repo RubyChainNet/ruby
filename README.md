@@ -86,7 +86,7 @@
 
 ### 安装
 
-  下载 [rubychain_latest.zip](https://download.rubychain.org/download/ruby/latest/rubychain_latest.zip)
+  下载 [rubychain_latest.zip](https://download.rubychain.org/download/latest/rubychain_latest.zip)
   解压缩，并进入解压缩后的目录；右键，以管理员身份执行install.bat
 
 ### 启动
