@@ -5,8 +5,8 @@
 ### 安装
 
 ``` 
- wget https://download.rubychain.org/download/latest/rubychain_latest.tar
- tar zxvf rubychain_latest.tar
+ wget https://download.rubychain.org/download/latest/rubychain_latest.tar.gz
+ tar zxvf rubychain_latest.tar.gz
  cd rubychain
  sudo chmod +x install.sh
  ./install.sh
