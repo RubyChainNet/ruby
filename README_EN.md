@@ -5,7 +5,7 @@
 ### install
 
 ``` 
- wget https://download.rubychain.org/download/latest/rubychain_latest.tar.gz
+ wget https://rubychain.org/download/latest/rubychain_latest.tar.gz
  tar zxvf rubychain_latest.tar.gz
  cd rubychain
  sudo chmod +x install.sh
@@ -46,7 +46,7 @@
 ### install
 
 ``` 
- curl -o rubychain_latest.tar https://download.rubychain.org/download/latest/rubychain_latest.tar
+ curl -o rubychain_latest.tar https://rubychain.org/download/latest/rubychain_latest.tar
  tar zxvf rubychain_latest.tar
  cd rubychain
  chmod +x install.sh
@@ -86,7 +86,7 @@
 
 ### install
 
-  download [rubychain_latest.zip](https://download.rubychain.org/download/latest/rubychain_latest.zip)
+  download [rubychain_latest.zip](https://rubychain.org/download/latest/rubychain_latest.zip)
   unzip and enter the folder；on install.bat right click then run as administrator
 
 ### start
