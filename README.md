@@ -5,7 +5,7 @@
 ### 安装
 
 ``` 
- wget https://download.rubychain.org/download/latest/rubychain_latest.tar.gz
+ wget https://rubychain.org/download/latest/rubychain_latest.tar.gz
  tar zxvf rubychain_latest.tar.gz
  cd rubychain
  sudo chmod +x install.sh
@@ -46,7 +46,7 @@
 ### 安装
 
 ``` 
- curl -o rubychain_latest.tar https://download.rubychain.org/download/latest/rubychain_latest.tar
+ curl -o rubychain_latest.tar https://rubychain.org/download/latest/rubychain_latest.tar
  tar zxvf rubychain_latest.tar
  cd rubychain
  chmod +x install.sh
@@ -86,7 +86,7 @@
 
 ### 安装
 
-  下载 [rubychain_latest.zip](https://download.rubychain.org/download/latest/rubychain_latest.zip)
+  下载 [rubychain_latest.zip](https://rubychain.org/download/latest/rubychain_latest.zip)
   解压缩，并进入解压缩后的目录；右键，以管理员身份执行install.bat
 
 ### 启动
